@@ -7,6 +7,9 @@ name = "pypi"
 git-lfs = "*"
 jupyter = "*"
 jupyterlab = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
